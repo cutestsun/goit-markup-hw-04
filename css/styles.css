@@ -340,7 +340,7 @@ header .container {
 }
 
 .social-list {
-  grid-gap: 24px;
+  gap: 24px;
   justify-content: center;
   margin-top: 12px;
 }
@@ -349,7 +349,7 @@ header .container {
 
 .client-list {
   display: flex;
-  grid-gap: 24px;
+  gap: 24px;
 }
 
 .client-list-item {
@@ -423,7 +423,7 @@ header .container {
 
 .footer-social .social-list {
   display: flex;
-  grid-gap: 16px;
+  gap: 16px;
   margin: 0;
 }
 
